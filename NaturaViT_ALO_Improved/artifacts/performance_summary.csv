@@ -1,0 +1,13 @@
+Metric,Value
+Baseline Accuracy,81.96%
+Best ALO Model,ALO + KNN
+Best ALO Accuracy,86.88%
+Improvement,+4.92%
+Selected Features,137
+Total Features,256
+Macro Precision,86.93%
+Macro Recall,86.88%
+Macro F1-Score,86.88%
+Cohen's Kappa,0.8360
+Training Time (s),71084.8s
+Total Parameters,"849,797"
